@@ -1,0 +1,1 @@
+# Sensoriamento-Espectral-para-Radios-Cognitivos-aplicado-em-cenarios-de-TVWS
